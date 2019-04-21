@@ -1,0 +1,4 @@
+requests==2.21.0
+aliyun_python_sdk_alidns==2.0.6
+aliyun_python_sdk_core==2.13.4
+aliyun_python_sdk_ecs==4.16.7
