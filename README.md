@@ -1,5 +1,11 @@
 # 创建ECS & 添加域名解析
 
+## 环境配置
+```text
+C:\Users\Administrator>python --version
+Python 3.7.0
+```
+
 ## Step 1. 配置
 ### 1. 阿里云SDK鉴权  
 ```text
