@@ -12,23 +12,23 @@ from domain.Domain import DomainUtil
 from ecs.Ecs import EcsUtil
 
 # aliyun sdk auth
-access_id = 'LTAI1AzVn50kG1OS'
-access_secret = 'vBLuWGTlWQfH0nShe6xPb269NsyYo0'
-region_id = 'cn-hongkong'
+access_id = '***********'
+access_secret = '***********'
+region_id = '***************'
 
 # ecs template
-template_id = "lt-j6ccyo1arn725koyh5ev"
-template_name = "ss_proxy"
+template_id = "***************"
+template_name = "***************"
 
 # domain
 domain_type = "A"
 prefix = 'hk'
-domain_name = 'dtdoom.com'
+domain_name = '***************'
 
 # notify
-token = '5e02ea144d4a248e38a3e2c08fe57988ecfe1e88ee45008ae995fd588bbac0dd'
+token = '***************'
 mobiles = [
-    "13285712196"
+    "***************"
 ]
 
 ding_ding = "https://oapi.dingtalk.com/robot/send?access_token="
